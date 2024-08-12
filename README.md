@@ -39,6 +39,9 @@
         <td>
             <p><img src="https://github.com/user-attachments/assets/8913581f-9151-4ba8-943d-8bb334dfcb3d" width=25> | <a href="https://github.com/loryhyu1090/0g_da_retriever_guide">0G Da Retriever Guide</a></p>
         </td>
+        <td>
+            <p><img src="https://github.com/user-attachments/assets/8913581f-9151-4ba8-943d-8bb334dfcb3d" width=25> | <a href="https://github.com/loryhyu1090/Storage-Node-Deployment-Guide">0G Storage Node Guide</a></p>
+        </td>
     </tr>
 </table>
 

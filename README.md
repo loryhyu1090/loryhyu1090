@@ -11,8 +11,8 @@
         <tr>
             <td><strong>Artela</strong></td>
             <td><strong>AirChains</strong></td>
-            <td><strong></strong></td>
-            <td><strong></strong></td>
+            <td><strong>Lava</strong></td>
+            <td><strong>Warden</strong></td>
         </tr>
         <tr>
             <td><img src="https://github.com/user-attachments/assets/14d53e69-1175-4683-bd08-76f0297960e4" width=150></td>

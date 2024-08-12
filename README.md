@@ -4,6 +4,8 @@
     <img src="https://github.com/user-attachments/assets/32ea06e2-0284-42d9-98b3-ca617ff8345b">
 </p>
 
+<img src="https://giphy.com/embed/aTf4PONtSYB1e">
+
 <h2 align=center> My Experience </h2>
 
 

@@ -28,3 +28,15 @@
     <li><strong>lava@valoper1wpmnll90zl05827hph74hjtzyk7d9k6rdzslvj</strong></li>
     <li><strong>wardenvaloper1htzln8xnukn63kt6s2l3mg04akeh9j5ch6cj7a</strong></li>
 </ul>
+
+<h2 align=center> My Guides </h2>
+
+<table border="10" align=center>
+    <tr>
+        <td>
+            <p><img src="https://github.com/user-attachments/assets/8913581f-9151-4ba8-943d-8bb334dfcb3d" width=25><p><a href="https://github.com/loryhyu1090/0g_da_node_guide">0G Da Node Guide</a>
+        </td>
+    </tr>
+</table>
+
+

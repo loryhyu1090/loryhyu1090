@@ -4,7 +4,7 @@
     <img src="https://github.com/user-attachments/assets/32ea06e2-0284-42d9-98b3-ca617ff8345b">
 </p>
 
-<img src="https://giphy.com/embed/aTf4PONtSYB1e">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV0Mjl2dG12aW56bjJqaGZxOXNpcnE0NjR6bWlobXMwdDQ2amQxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aTf4PONtSYB1e/giphy.gif)">
 
 <h2 align=center> My Experience </h2>
 

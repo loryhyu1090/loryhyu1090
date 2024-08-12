@@ -43,6 +43,13 @@
             <p><img src="https://github.com/user-attachments/assets/8913581f-9151-4ba8-943d-8bb334dfcb3d" width=25> | <a href="https://github.com/loryhyu1090/Storage-Node-Deployment-Guide">0G Storage Node Guide</a></p>
         </td>
     </tr>
+    <tr>
+        <td>
+            <p><img src="https://github.com/user-attachments/assets/ecfc4b71-0b4e-4039-8ec0-4983c416b904" width=25> | <a href="https://github.com/loryhyu1090/Joining-Lava-Testnet---Manual-Setup"></a>Joing Lava TestNet</p>
+            <p><img src="https://github.com/user-attachments/assets/82810345-a1ea-4910-81e3-4078c0926c9a" width=25> | <a href="https://github.com/loryhyu1090/Side-Node-Installation-Setup-Guide">Side Protocol Node Guide</a></p>
+            <p><img src="https://github.com/user-attachments/assets/6f5153ac-42d2-4a61-b5d5-8db2f86cf7d8" width=25> | <a href="https://github.com/loryhyu1090/Warden-Protocol-Start-Node-Guide">Warden Protocol Installation Guide</a></p>
+        </td>
+    </tr>
 </table>
 
 

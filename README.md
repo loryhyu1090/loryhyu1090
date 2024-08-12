@@ -11,23 +11,9 @@
 
 <table border="3">
         <tr>
-            <th>Header 1</th>
-            <th>Header 2</th>
-            <th>Header 3</th>
-        </tr>
-        <tr>
             <td><img src="https://github.com/user-attachments/assets/14d53e69-1175-4683-bd08-76f0297960e4" width=150></td>
             <td><img src="https://github.com/user-attachments/assets/0aac1261-2141-4963-915c-be0d9c715289" width=150></td>
             <td><img src="https://github.com/user-attachments/assets/aabfe1a4-72fc-4243-b285-600a107eab1e" width=150></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Row 2, Cell 2</td>
-            <td>Row 2, Cell 3</td>
-        </tr>
-        <tr>
-            <td>Row 3, Cell 1</td>
-            <td>Row 3, Cell 2</td>
-            <td>Row 3, Cell 3</td>
+            <td><img src="https://github.com/user-attachments/assets/e9686151-b7e5-4727-a474-28d4d0bbb534" width=150></td>
         </tr>
     </table>

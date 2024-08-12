@@ -1,10 +1,8 @@
 <h2 align=center> Hi there 👋 </h2>
 
 <p align=center>
-    <img src="https://github.com/user-attachments/assets/32ea06e2-0284-42d9-98b3-ca617ff8345b">
+    <img src="https://github.com/user-attachments/assets/cd6c2bf9-1a2a-4cbf-90f9-ad6b0764f10c">
 </p>
-
-![Ghost](https://github.com/user-attachments/assets/cd6c2bf9-1a2a-4cbf-90f9-ad6b0764f10c)
 
 
 <h2 align=center> My Experience </h2>

@@ -7,7 +7,7 @@
 ## My Experience
 
 
-<table border="3" align=center>
+<table border="10" align=center>
         <tr>
             <td><strong>Artela</strong></td>
             <td><strong>AirChains</strong></td>

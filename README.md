@@ -34,7 +34,7 @@
 <table border="10" align=center>
     <tr>
         <td>
-            <p><img src="https://github.com/user-attachments/assets/8913581f-9151-4ba8-943d-8bb334dfcb3d" width=25></p><a href="https://github.com/loryhyu1090/0g_da_node_guide">0G Da Node Guide</a>
+            <p><img src="https://github.com/user-attachments/assets/8913581f-9151-4ba8-943d-8bb334dfcb3d" width=25><a href="https://github.com/loryhyu1090/0g_da_node_guide">0G Da Node Guide</a></p>
         </td>
     </tr>
 </table>

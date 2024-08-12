@@ -56,4 +56,13 @@
     </tr>
 </table>
 
+<h2 align=center> My Links </h2>
+
+<ul>
+    <li><strong>Twitter</strong><a href="https://x.com/LeonChaz96610"> click </a></li>
+    <li><strong>Medium</strong><a href="https://medium.com/@loryhyu1090"> click </a></li>
+    <li><strong>Discord</strong><a href="https://discord.com/users/938769219464605727"> click </a></li>
+    <li><strong>Email</strong><a href="mailto:tanousbronella@gmail.com"> click </a></li>
+</ul>
+
 

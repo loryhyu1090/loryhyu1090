@@ -9,8 +9,8 @@
 
 <table border="3" align=center>
         <tr>
-            <td><strong></strong></td>
-            <td><strong></strong></td>
+            <td><strong>Artela</strong></td>
+            <td><strong>AirChains</strong></td>
             <td><strong></strong></td>
             <td><strong></strong></td>
         </tr>

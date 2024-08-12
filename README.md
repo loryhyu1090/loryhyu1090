@@ -4,7 +4,7 @@
 
 ## My Experience
 
-<table border="1">
+<table border="3">
         <tr>
             <th>Header 1</th>
             <th>Header 2</th>

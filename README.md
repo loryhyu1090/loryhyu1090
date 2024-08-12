@@ -46,7 +46,9 @@
     <tr>
         <td>
             <p><img src="https://github.com/user-attachments/assets/ecfc4b71-0b4e-4039-8ec0-4983c416b904" width=25> | <a href="https://github.com/loryhyu1090/Joining-Lava-Testnet---Manual-Setup"></a>Joing Lava TestNet</p>
+        </td>
             <p><img src="https://github.com/user-attachments/assets/82810345-a1ea-4910-81e3-4078c0926c9a" width=25> | <a href="https://github.com/loryhyu1090/Side-Node-Installation-Setup-Guide">Side Protocol Node Guide</a></p>
+        <td>    
             <p><img src="https://github.com/user-attachments/assets/6f5153ac-42d2-4a61-b5d5-8db2f86cf7d8" width=25> | <a href="https://github.com/loryhyu1090/Warden-Protocol-Start-Node-Guide">Warden Protocol Installation Guide</a></p>
         </td>
     </tr>
